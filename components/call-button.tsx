@@ -1,7 +1,7 @@
 "use client"
 
 export default function CallButton() {
-    const url = "tel:+919322987615"
+    const url = "tel:+919970501128"
 
     return (
         <div className="fixed bottom-8 left-8 z-40">

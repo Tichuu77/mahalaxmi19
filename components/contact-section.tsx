@@ -151,13 +151,13 @@ export default function ContactSection() {
     {
       icon: Phone,
       label: "Call / WhatsApp",
-      values: ["+91 9322987615", "+91 7378624062"],
+      values: ["+91 9970501128"],
       dark: true,
     },
     {
       icon: Mail,
       label: "Email",
-      values: ["digvijaycr@gmail.com"],
+      values: ["manoj.mungale@gmail.com"],
       dark: false,
     },
     {

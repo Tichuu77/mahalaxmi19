@@ -111,7 +111,7 @@ export default function FaqSection() {
               <h4 className="faq__sidebar-cta-title">Ready to Visit a Site?</h4>
               <p className="faq__sidebar-cta-sub">Book a free site visit — our team will guide you personally.</p>
               <div className="faq__sidebar-cta-btns">
-                <button className="faq__sidebar-cta-primary" onClick={() => window.open("https://wa.me/919322987615", "_blank")}>WhatsApp</button>
+                <button className="faq__sidebar-cta-primary" onClick={() => window.open("https://wa.me/919970501128", "_blank")}>WhatsApp</button>
                 <a href="tel:+919322987615" className="faq__sidebar-cta-secondary"><Phone size={12} aria-hidden="true" /> Call Us</a>
               </div>
             </div>

@@ -15,9 +15,9 @@ const navLinks = [
   { href: "#contact",      label: "Contact Us"      },
 ]
 const contacts = [
-  { icon: Phone, href: "tel:+919322987615",            label: "+91 9322987615" },
-  { icon: Phone, href: "tel:+917378624062",            label: "+91 7378624062" },
-  { icon: Mail,  href: "mailto:digvijaycr@gmail.com",  label: "digvijaycr@gmail.com" },
+  { icon: Phone, href: "tel:+919970501128",            label: "+91 9970501128" },
+  // { icon: Phone, href: "tel:+917378624062",            label: "+91 7378624062" },
+  { icon: Mail,  href: "mailto:manoj.mungale@gmail.com",  label: "manoj.mungale@gmail.com" },
 ]
 
 export const Footer = memo(() => (
@@ -31,7 +31,7 @@ export const Footer = memo(() => (
         {/* Brand */}
         <div>
           <div className="footer__logo-wrap">
-            <img src="/Mahalaxmi Infra new Logo.png" alt="Mahalaxmi Infra Logo" width={48} height={48} loading="lazy" className="footer__logo-img" />
+            <img src="/Malaxmi-Final-Logo-1.png" alt="Mahalaxmi Infra Logo" width={48} height={48} loading="lazy" className="footer__logo-img" />
             <div>
               <div className="footer__logo-name">Mahalaxmi Infra</div>
               <div className="footer__logo-sub">RERA Approved</div>
@@ -40,7 +40,7 @@ export const Footer = memo(() => (
           <p className="footer__about-text">Nagpur's most trusted name in NMRDA sanctioned, RERA approved residential plots. Building landmarks since 2012.</p>
           <div className="gold-badge">
             <div className="gold-badge__dot" />
-            <span className="gold-badge__text">MAHA RERA NO. A50500044725</span>
+            {/* <span className="gold-badge__text">MAHA RERA NO. A50500044725</span> */}
           </div>
         </div>
 
@@ -86,7 +86,7 @@ export const Footer = memo(() => (
             <div className="footer__col-line" />
             <h3 className="footer__col-label">Contact</h3>
           </div>
-          <p className="footer__contact-name">Digvijay Raut</p>
+          <p className="footer__contact-name">Monoj Mungle</p>
           <ul className="footer__contact-list">
             {contacts.map(c => {
               const Icon = c.icon

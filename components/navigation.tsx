@@ -41,10 +41,9 @@ export function Navigation() {
       <nav role="navigation" aria-label="Main navigation" className={`nav ${scrolled ? "nav--scrolled" : "nav--top"}`}>
         <div className="nav__inner">
           <a href="#" aria-label="Mahalaxmi Infra – Home" className="nav__logo">
-            <img src="/Mahalaxmi Infra new Logo.png" alt="Mahalaxmi Infra Logo" width={52} height={52} className="nav__logo-img" fetchPriority="high" decoding="sync" />
+            <img src="/Malaxmi-Final-Logo-1.png" alt="Mahalaxmi Infra Logo" width={72} height={72} className="nav__logo-img" fetchPriority="high" decoding="sync" />
             <div>
               <div className="nav__logo-name">Mahalaxmi Infra</div>
-              <div className="nav__logo-sub">RERA Approved</div>
             </div>
           </a>
           <DesktopLinks />
@@ -71,7 +70,7 @@ export function Navigation() {
             ))}
           </div>
           <a href="#contact" className="nav__drawer-cta" onClick={closeMenu}>Get Started</a>
-          <p className="nav__drawer-rera">MAHA RERA NO. A50500044725</p>
+          {/* <p className="nav__drawer-rera">MAHA RERA NO. A50500044725</p> */}
         </div>
       )}
     </>
