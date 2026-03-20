@@ -18,7 +18,7 @@ const inter = Inter({
   display: "swap",
 })
 
-const BASE_URL = "https://www.mahalaxmiinfra.com"
+const BASE_URL = "https://www.mm.mahalaxmiinfra.com"
 
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
@@ -132,8 +132,8 @@ const structuredData = {
       },
       description:
         "NMRDA sanctioned and RERA approved residential plots in Nagpur with 70+ completed projects and 17,000+ happy families.",
-      telephone: "+919322987615",
-      email: "digvijaycr@gmail.com",
+      telephone: "+919970501128",
+      email: "manoj.mungale@gmail.com",
       address: {
         "@type": "PostalAddress",
         addressLocality: "Nagpur",

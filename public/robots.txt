@@ -1,0 +1,22 @@
+# Robots.txt for Mahalaxmi Infra
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /*.json$
+
+# Crawl delay
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://mm.mahalaxmiinfra.in/sitemap.xml
+Sitemap: https://mm.mahalaxmiinfra.in/sitemap-pages.xml
+
+# Googlebot
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
