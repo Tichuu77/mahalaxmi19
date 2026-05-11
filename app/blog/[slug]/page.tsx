@@ -163,7 +163,7 @@ export default function BlogDetailPage({ params }: { params: { slug: string } })
                 {blog.relatedAreas.map((areaSlug: string) => (
                   <Link
                     key={areaSlug}
-                    href={`/property-in-${areaSlug}-nagpur`}
+                    href={`/${areaSlug}-nagpur`}
                     className="blog-detail__area-pill"
                   >
                     Property in {areaSlug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())} Nagpur →

@@ -11,6 +11,7 @@ const navLinks = [
   { href: "#user-guide",   label: "User Guide"   },
   { href: "#news",         label: "News"         },
   { href: "#testimonials", label: "Testimonials" },
+   { href: "/blog", label: "Blog" },
   { href: "#contact",      label: "Contact"      },
 ]
 

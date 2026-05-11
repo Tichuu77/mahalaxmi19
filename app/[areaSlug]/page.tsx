@@ -7,7 +7,7 @@ import path from "path"
 
 // ── Helpers ────────────────────────────────────────────────────────────────
 function getArea(areaSlug: string) {
-  // urlPath = "property-in-mihan-nagpur" → slug stored in JSON = "mihan"
+  // urlPath = "mihan-nagpur" → slug stored in JSON = "mihan"
   try {
     const dir = path.join(process.cwd(), "content/areas")
     const files = fs.readdirSync(dir)
