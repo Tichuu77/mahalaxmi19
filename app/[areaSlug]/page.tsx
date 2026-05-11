@@ -37,8 +37,12 @@ function getAllBlogs() {
 
 // ── Static generation ──────────────────────────────────────────────────────
 export async function generateStaticParams() {
-  const areas = getAllAreas()
-  return areas.map((a: any) => ({ areaSlug: a.urlPath }))
+  const dir = path.join(process.cwd(), "content/areas")
+  const files = fs.readdirSync(dir)
+  return files.map((f) => {
+    const data = JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8"))
+    return { areaSlug: data.urlPath }
+  })
 }
 
 // ── Meta ───────────────────────────────────────────────────────────────────

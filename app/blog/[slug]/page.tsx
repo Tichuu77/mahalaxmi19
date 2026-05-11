@@ -8,7 +8,9 @@ import path from "path"
 export async function generateStaticParams() {
   const dir = path.join(process.cwd(), "content/blogs")
   const files = fs.readdirSync(dir)
-  return files.map((f) => ({ slug: f.replace(".json", "") }))
+  return files.map((f) => ({
+    slug: f.replace(".json", ""),
+  }))
 }
 
 function getBlog(slug: string) {
