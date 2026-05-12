@@ -7,16 +7,22 @@ import path from "path"
 // ── Static generation ──────────────────────────────────────────────────────
 export async function generateStaticParams() {
   const dir = path.join(process.cwd(), "content/blogs")
-  const files = fs.readdirSync(dir)
-  return files.map((f) => ({
-    slug: f.replace(".json", ""),
-  }))
+  const files = fs.readdirSync(dir).filter((f) => f.endsWith(".json"))
+  return files.map((f) => {
+    const data = JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8"))
+    return { slug: data.slug }
+  })
 }
 
 function getBlog(slug: string) {
   try {
-    const file = path.join(process.cwd(), "content/blogs", `${slug}.json`)
-    return JSON.parse(fs.readFileSync(file, "utf-8"))
+    const dir = path.join(process.cwd(), "content/blogs")
+    for (const f of fs.readdirSync(dir)) {
+      if (!f.endsWith(".json")) continue
+      const data = JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8"))
+      if (data.slug === slug) return data
+    }
+    return null
   } catch {
     return null
   }
@@ -33,9 +39,10 @@ function getAllBlogs() {
 export async function generateMetadata({
   params,
 }: {
-  params: { slug: string }
+  params: Promise<{ slug: string }>
 }): Promise<Metadata> {
-  const blog = getBlog(params.slug)
+  const { slug } = await params
+  const blog = getBlog(slug)
   if (!blog) return {}
   return {
     title: blog.metaTitle,
@@ -54,8 +61,13 @@ export async function generateMetadata({
 }
 
 // ── Page ───────────────────────────────────────────────────────────────────
-export default function BlogDetailPage({ params }: { params: { slug: string } }) {
-  const blog = getBlog(params.slug)
+export default async function BlogDetailPage({
+  params,
+}: {
+  params: Promise<{ slug: string }>
+}) {
+  const { slug } = await params
+  const blog = getBlog(slug)
   if (!blog) notFound()
 
   const allBlogs = getAllBlogs()
