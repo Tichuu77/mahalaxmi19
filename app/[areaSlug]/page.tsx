@@ -36,6 +36,8 @@ function getAllBlogs() {
 }
 
 // ── Static generation ──────────────────────────────────────────────────────
+export const dynamicParams = false
+
 export async function generateStaticParams() {
   const dir = path.join(process.cwd(), "content/areas")
   const files = fs.readdirSync(dir)

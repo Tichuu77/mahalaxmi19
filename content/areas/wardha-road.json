@@ -1,55 +1,51 @@
 {
   "slug": "wardha-road",
-  "urlPath": "wardha-road-nagpur",
+  "urlPath": "property-in-wardha-road-nagpur",
   "name": "Wardha Road",
   "fullName": "Wardha Road Nagpur",
   "city": "Nagpur",
-  "metaTitle": "Property in Wardha Road Nagpur | Plots & Flats | Mahalaxmi Infra",
-  "metaDescription": "Buy NMRDA approved plots on Wardha Road Nagpur. Prime location connecting city to MIHAN & airport. Starting ₹22 Lakh. 90% bank finance available.",
-  "keywords": ["property in wardha road nagpur", "plots wardha road nagpur", "wardha road real estate nagpur", "buy plot wardha road"],
+  "metaTitle": "Property in Wardha Road Nagpur | NMRDA Approved Plots | Mahalaxmi Infra",
+  "metaDescription": "Buy NMRDA sanctioned, RERA approved plots in Wardha Road Nagpur. Starting ₹22 Lakh. Up to 90% bank finance. Contact Mahalaxmi Infra today.",
+  "keywords": [
+    "property in wardha road nagpur",
+    "plots in wardha road nagpur",
+    "wardha road nagpur real estate",
+    "buy plot wardha road nagpur",
+    "residential plots wardha road nagpur"
+  ],
   "heroHeading": "Property in Wardha Road Nagpur",
-  "heroSubheading": "Nagpur's Most Connected Corridor — From City Centre to Airport",
-  "image": "/gallery2.jpg",
-  "introduction": "Wardha Road is Nagpur's most important arterial road, stretching from the heart of the city all the way to the international airport and MIHAN. It passes through established localities like Somalwada, Besa, Beltarodi, and Wardha Road Extension, offering a mix of residential, commercial, and investment opportunities. The corridor has been significantly upgraded with widened roads, flyovers, and seamless metro connectivity planned. As a result, properties along Wardha Road continue to see steady appreciation. For buyers looking for a balance of connectivity, infrastructure, and proximity to Nagpur's economic engine at MIHAN, Wardha Road is the strongest choice in 2025. Mahalaxmi Infra has multiple completed and ongoing projects along this corridor, all NMRDA sanctioned and RERA approved.",
+  "heroSubheading": "Nagpur's Most Connected Corridor",
+  "image": "/gallery5.jpg",
+  "introduction": "Wardha Road is Nagpur's most important arterial road, stretching from the heart of the city to the international airport and MIHAN. It passes through localities like Somalwada, Besa, Beltarodi, Jamtha, and Sumthana, offering a mix of residential, commercial, and investment opportunities. The corridor has been significantly upgraded with widened roads, flyovers, and metro connectivity planned. Properties along Wardha Road continue to see steady appreciation, and it remains the strongest investment corridor in Nagpur in 2025. Mahalaxmi Infra has multiple ongoing projects along this corridor, all NMRDA sanctioned and RERA approved.",
   "whyInvest": [
-    "Connects Nagpur city centre to MIHAN and International Airport",
-    "Somalwada, Besa, Beltarodi — fully developed social infrastructure",
-    "Metro connectivity planned for key nodes along the route",
-    "Consistent 12–18% annual appreciation over 5 years",
-    "Widened roads, flyovers, and drainage — infrastructure complete"
+    "Connects city centre to MIHAN and International Airport",
+    "Established social infrastructure — schools, hospitals, malls",
+    "Metro connectivity planned for key nodes",
+    "Consistent 12–18% annual appreciation",
+    "Multiple Mahalaxmi Infra projects active here"
   ],
-  "projects": [
-    {
-      "title": "Mahalaxmi Nagar 42",
-      "location": "Mouza Jamtha, Wardha Road",
-      "status": "ongoing",
-      "image": "/ongoingProject42.webp"
-    },
-    {
-      "title": "Mahalaxmi Nagar 43",
-      "location": "Mouza Shankarpur",
-      "status": "ongoing",
-      "image": "/project_43.jpg"
-    }
-  ],
+  "projects": [],
   "faqs": [
     {
-      "question": "Why is Wardha Road the best location to buy property in Nagpur?",
-      "answer": "Wardha Road connects central Nagpur to MIHAN, AIIMS, IIM, and the international airport. It has excellent schools, hospitals, and malls, with consistent appreciation and strong resale value."
+      "question": "Why is Wardha Road the best location to buy property?",
+      "answer": "Wardha Road connects central Nagpur to MIHAN, AIIMS, IIM, and the international airport with excellent infrastructure and resale value."
     },
     {
       "question": "What localities are on Wardha Road Nagpur?",
-      "answer": "Key localities include Somalwada, Besa, Beltarodi, Jamtha, Sumthana, and Shankarpur. All are well-connected and have NMRDA-approved residential layouts."
-    },
-    {
-      "question": "Are Mahalaxmi Infra projects on Wardha Road RERA approved?",
-      "answer": "Yes. All Mahalaxmi Infra projects on and near Wardha Road carry NMRDA sanction, RERA registration (A50500044725), and are bank-finance eligible."
+      "answer": "Key localities include Somalwada, Besa, Beltarodi, Jamtha, Sumthana, and Shankarpur."
     },
     {
       "question": "What is the price of plots on Wardha Road Nagpur?",
-      "answer": "Plot prices on Wardha Road vary by exact location and size. Mahalaxmi Infra projects in this corridor start from ₹22 Lakh. Contact us for an updated price list."
+      "answer": "Mahalaxmi Infra projects on Wardha Road corridor start from ₹22 Lakh. Contact us for an updated price list."
     }
   ],
-  "relatedBlogs": ["top-10-areas-to-buy-nagpur", "why-mihan-nagpur-is-best-for-investment"],
-  "relatedAreas": ["mihan", "besa", "shankarpur"]
+  "relatedBlogs": [
+    "top-10-areas-to-buy-property-in-nagpur",
+    "why-mihan-nagpur-is-best-for-investment"
+  ],
+  "relatedAreas": [
+    "mihan",
+    "besa",
+    "shankarpur"
+  ]
 }

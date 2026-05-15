@@ -1,45 +1,51 @@
 {
   "slug": "hingna",
-  "urlPath": "hingna-nagpur",
+  "urlPath": "property-in-hingna-nagpur",
   "name": "Hingna",
   "fullName": "Hingna Nagpur",
   "city": "Nagpur",
-  "metaTitle": "Property in Hingna Nagpur | Plots near Industrial Zone | Mahalaxmi Infra",
-  "metaDescription": "Buy NMRDA approved plots in Hingna Nagpur. Near MIDC industrial zone. Strong rental yield & appreciation. Bank finance available. Mahalaxmi Infra.",
-  "keywords": ["property in hingna nagpur", "plots in hingna nagpur", "hingna nagpur real estate", "plots near midc nagpur"],
+  "metaTitle": "Property in Hingna Nagpur | NMRDA Approved Plots | Mahalaxmi Infra",
+  "metaDescription": "Buy NMRDA sanctioned, RERA approved plots in Hingna Nagpur. Starting ₹22 Lakh. Up to 90% bank finance. Contact Mahalaxmi Infra today.",
+  "keywords": [
+    "property in hingna nagpur",
+    "plots in hingna nagpur",
+    "hingna nagpur real estate",
+    "buy plot hingna nagpur",
+    "residential plots hingna nagpur"
+  ],
   "heroHeading": "Property in Hingna Nagpur",
   "heroSubheading": "Industrial Belt, Residential Potential",
-  "image": "/gallery5.jpg",
-  "introduction": "Hingna is Nagpur's major industrial belt, home to a large MIDC zone that houses hundreds of manufacturing and logistics companies. As industrial activity expands, the demand for residential accommodation nearby is rising steadily. Plots in Hingna offer excellent rental yield potential for buyers who want passive income alongside capital appreciation. The Hingna-Wardha Road junction gives the area strong connectivity to both the city and MIHAN. Mahalaxmi Infra has projects in the broader Hingna corridor targeting buyers who want value today and returns tomorrow.",
+  "image": "/gallery6.jpg",
+  "introduction": "Hingna is Nagpur's major industrial belt, home to a large MIDC zone that houses hundreds of manufacturing, logistics, and engineering companies. As industrial activity in Hingna continues to expand, the demand for residential accommodation in the surrounding areas is rising steadily. Plots in Hingna Road Nagpur offer excellent rental yield potential for investors who want passive income alongside long-term capital appreciation. The Hingna-Wardha Road junction gives the area strong connectivity to both the city centre and the MIHAN corridor. For budget-conscious buyers, Hingna offers NMRDA-approved plots at competitive prices with up to 90% bank financing available. Mahalaxmi Infra has active projects in the broader Hingna corridor targeting buyers who want value today and strong returns tomorrow.",
   "whyInvest": [
     "Adjacent to Nagpur's largest MIDC industrial zone",
     "Strong rental demand from industrial workforce",
-    "Hingna-Wardha Road junction — excellent connectivity",
+    "Hingna Road — excellent connectivity to city and MIHAN",
     "Lower entry price with industrial-driven appreciation",
-    "NMRDA approved layouts available"
+    "NMRDA approved layouts with 90% bank finance"
   ],
-  "projects": [
-    {
-      "title": "Mahalaxmi Nagar 46",
-      "location": "Mouza Pandhurna, Umred Road",
-      "status": "ongoing",
-      "image": "/project_M-46.jpg"
-    }
-  ],
+  "projects": [],
   "faqs": [
     {
       "question": "Is Hingna a good area to buy property in Nagpur?",
-      "answer": "Yes, especially for investors. Hingna's large MIDC zone creates strong rental demand from the industrial workforce. Plots here offer good yield and appreciation potential."
+      "answer": "Yes. Hingna's large MIDC zone creates strong rental demand. Plots here offer good yield and appreciation potential."
     },
     {
       "question": "What is the property price in Hingna Nagpur?",
-      "answer": "Hingna offers relatively affordable plot prices compared to Wardha Road and Besa. Contact Mahalaxmi Infra for current pricing on NMRDA approved plots near Hingna."
+      "answer": "Hingna offers affordable plot prices compared to Wardha Road. Contact Mahalaxmi Infra for current pricing."
     },
     {
       "question": "Is bank loan available for plots near Hingna?",
-      "answer": "Yes. NMRDA sanctioned and RERA approved plots near Hingna are eligible for bank finance up to 90% LTV from major banks."
+      "answer": "Yes. NMRDA sanctioned and RERA approved plots near Hingna are eligible for bank finance up to 90%."
     }
   ],
-  "relatedBlogs": ["top-10-areas-to-buy-nagpur", "home-loan-for-plots-nagpur-2025"],
-  "relatedAreas": ["wardha-road", "dighori", "besa"]
+  "relatedBlogs": [
+    "top-10-areas-to-buy-property-in-nagpur",
+    "home-loan-for-plots-nagpur-2025"
+  ],
+  "relatedAreas": [
+    "wardha-road",
+    "dighori",
+    "besa"
+  ]
 }

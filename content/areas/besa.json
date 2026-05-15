@@ -1,18 +1,24 @@
 {
   "slug": "besa",
-  "urlPath": "besa-nagpur",
+  "urlPath": "property-in-besa-nagpur",
   "name": "Besa",
   "fullName": "Besa Nagpur",
   "city": "Nagpur",
-  "metaTitle": "Property in Besa Nagpur | Affordable Plots & Flats | Mahalaxmi Infra",
-  "metaDescription": "Buy affordable NMRDA approved plots in Besa Nagpur. Close to Wardha Road, schools & hospitals. Starting ₹22 Lakh with 90% bank finance.",
-  "keywords": ["property in besa nagpur", "plots in besa nagpur", "besa nagpur real estate", "affordable plots besa nagpur"],
+  "metaTitle": "Property in Besa Nagpur | NMRDA Approved Plots | Mahalaxmi Infra",
+  "metaDescription": "Buy NMRDA sanctioned, RERA approved plots in Besa Nagpur. Starting ₹22 Lakh. Up to 90% bank finance. Contact Mahalaxmi Infra today.",
+  "keywords": [
+    "property in besa nagpur",
+    "plots in besa nagpur",
+    "besa nagpur real estate",
+    "buy plot besa nagpur",
+    "residential plots besa nagpur"
+  ],
   "heroHeading": "Property in Besa Nagpur",
   "heroSubheading": "Affordable, Well-Connected & Fast Growing",
-  "image": "/gallery3.jpg",
-  "introduction": "Besa is one of Nagpur's most popular destinations for budget residential buyers and first-time investors. Located off Wardha Road, Besa offers excellent connectivity to the city while remaining more affordable than premium corridors. The area has schools, hospitals, and daily convenience infrastructure already in place, making it suitable for immediate family living. NMRDA-approved layouts in Besa have seen consistent 12–20% annual appreciation driven by the area's proximity to Wardha Road and MIHAN. Mahalaxmi Infra has completed multiple projects in the Besa-Beltarodi zone.",
+  "image": "/gallery1.jpg",
+  "introduction": "Besa is one of Nagpur's most sought-after residential localities for budget buyers and first-time investors. Located off Wardha Road, Besa strikes the perfect balance between affordability and urban connectivity. The area is well-served by schools, hospitals, local markets, and daily convenience stores, making it an ideal destination for families looking to settle down. Over the last five years, NMRDA-approved layouts in Besa have recorded consistent annual appreciation of 12–20%, driven primarily by the area's proximity to the MIHAN corridor and Wardha Road. Mahalaxmi Infra has successfully completed multiple residential layout projects in the Besa-Beltarodi zone, and each has delivered strong returns to early investors. If you are looking for a plot that combines affordability with future value, Besa remains one of the top choices in Nagpur in 2025.",
   "whyInvest": [
-    "Among Nagpur's most affordable residential areas near Wardha Road",
+    "Affordable entry price near Wardha Road",
     "Schools, hospitals, and markets already in place",
     "12–20% annual appreciation consistently",
     "Proximity to MIHAN without premium pricing",
@@ -26,13 +32,20 @@
     },
     {
       "question": "What is the price of plots in Besa Nagpur?",
-      "answer": "Plot prices in Besa vary by size and exact location. Mahalaxmi Infra projects near Besa start from ₹22 Lakh. Contact us for current availability."
+      "answer": "Mahalaxmi Infra projects near Besa start from ₹22 Lakh. Contact us for current availability."
     },
     {
       "question": "Is bank loan available for plots in Besa?",
-      "answer": "Yes. NMRDA approved plots in Besa are eligible for up to 90% bank finance from major banks including SBI, Bank of Maharashtra, and Axis Bank."
+      "answer": "Yes. NMRDA approved plots in Besa are eligible for up to 90% bank finance from SBI, Bank of Maharashtra, and Axis Bank."
     }
   ],
-  "relatedBlogs": ["top-10-areas-to-buy-nagpur", "flat-vs-plot-nagpur-investment"],
-  "relatedAreas": ["mihan", "wardha-road", "dighori"]
+  "relatedBlogs": [
+    "top-10-areas-to-buy-property-in-nagpur",
+    "flat-vs-plot-nagpur-investment"
+  ],
+  "relatedAreas": [
+    "mihan",
+    "wardha-road",
+    "dighori"
+  ]
 }

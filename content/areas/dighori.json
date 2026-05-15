@@ -1,16 +1,22 @@
 {
   "slug": "dighori",
-  "urlPath": "dighori-nagpur",
+  "urlPath": "property-in-dighori-nagpur",
   "name": "Dighori",
   "fullName": "Dighori Nagpur",
   "city": "Nagpur",
-  "metaTitle": "Property in Dighori Nagpur | Residential Plots | Mahalaxmi Infra",
-  "metaDescription": "Find NMRDA approved residential plots in Dighori Nagpur. Emerging locality with strong appreciation. Bank finance available. Contact Mahalaxmi Infra.",
-  "keywords": ["property in dighori nagpur", "plots in dighori nagpur", "dighori nagpur real estate", "buy plot dighori"],
+  "metaTitle": "Property in Dighori Nagpur | NMRDA Approved Plots | Mahalaxmi Infra",
+  "metaDescription": "Buy NMRDA sanctioned, RERA approved plots in Dighori Nagpur. Starting ₹22 Lakh. Up to 90% bank finance. Contact Mahalaxmi Infra today.",
+  "keywords": [
+    "property in dighori nagpur",
+    "plots in dighori nagpur",
+    "dighori nagpur real estate",
+    "buy plot dighori nagpur",
+    "residential plots dighori nagpur"
+  ],
   "heroHeading": "Property in Dighori Nagpur",
   "heroSubheading": "Emerging Residential Hub at the Right Price",
-  "image": "/gallery4.jpg",
-  "introduction": "Dighori is an emerging residential locality in Nagpur that is attracting increasing buyer interest in 2025. Located near the ring road and with good arterial connectivity, Dighori offers affordable plot options with strong future appreciation potential. As Nagpur's outer zones develop and infrastructure catches up, areas like Dighori present an excellent entry point for buyers who want to invest early before prices rise. The area already has basic social infrastructure and is seeing a new wave of NMRDA-approved layout development.",
+  "image": "/gallery2.jpg",
+  "introduction": "Dighori is one of Nagpur's fastest-emerging residential localities, attracting a growing number of budget-conscious buyers and investors in 2025. Strategically located near the ring road, Dighori offers excellent arterial connectivity to all major zones of the city — from MIHAN to central Nagpur. The area already has basic social infrastructure in place including schools, grocery markets, and clinics, and is witnessing a new wave of NMRDA-approved layout development. For buyers who want to enter the Nagpur property market before prices escalate, Dighori presents a compelling early-mover opportunity. Plots in Dighori under 30 lakhs are still available, making it one of the last affordable corridors with genuine appreciation potential. Mahalaxmi Infra tracks this micro-market closely and can connect you with the best available options.",
   "whyInvest": [
     "Affordable entry price with high appreciation potential",
     "Ring road connectivity to all major city zones",
@@ -22,17 +28,24 @@
   "faqs": [
     {
       "question": "Is Dighori a good area to invest in property?",
-      "answer": "Yes. Dighori is an emerging locality in Nagpur with affordable prices and strong appreciation potential as the city expands outward. It offers good ring road connectivity."
+      "answer": "Yes. Dighori is an emerging locality with affordable prices and strong appreciation potential as Nagpur expands outward."
     },
     {
       "question": "What is the property price in Dighori Nagpur?",
-      "answer": "Dighori is one of Nagpur's more affordable residential areas. Plot prices vary by size and layout. Contact Mahalaxmi Infra for current availability near Dighori."
+      "answer": "Dighori offers some of Nagpur's most affordable plot options. Contact Mahalaxmi Infra for current availability."
     },
     {
       "question": "Are plots in Dighori eligible for bank loans?",
-      "answer": "NMRDA sanctioned and RERA approved plots in Dighori are eligible for bank financing. Speak to our team to understand which projects near Dighori are loan-eligible."
+      "answer": "NMRDA sanctioned and RERA approved plots in Dighori are eligible for bank financing up to 90%."
     }
   ],
-  "relatedBlogs": ["top-10-areas-to-buy-nagpur", "flat-vs-plot-nagpur-investment"],
-  "relatedAreas": ["besa", "hingna", "wardha-road"]
+  "relatedBlogs": [
+    "top-10-areas-to-buy-property-in-nagpur",
+    "flat-vs-plot-nagpur-investment"
+  ],
+  "relatedAreas": [
+    "besa",
+    "hingna",
+    "wardha-road"
+  ]
 }

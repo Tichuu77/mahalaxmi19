@@ -5,6 +5,8 @@ import fs from "fs"
 import path from "path"
 
 // ── Static generation ──────────────────────────────────────────────────────
+export const dynamicParams = false
+
 export async function generateStaticParams() {
   const dir = path.join(process.cwd(), "content/blogs")
   const files = fs.readdirSync(dir).filter((f) => f.endsWith(".json"))
@@ -177,7 +179,7 @@ export default async function BlogDetailPage({
                 {blog.relatedAreas.map((areaSlug: string) => (
                   <Link
                     key={areaSlug}
-                    href={`/${areaSlug}-nagpur`}
+                    href={`/property-in-${areaSlug}-nagpur`}
                     className="blog-detail__area-pill"
                   >
                     Property in {areaSlug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())} Nagpur →

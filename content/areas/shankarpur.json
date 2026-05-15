@@ -1,45 +1,51 @@
 {
   "slug": "shankarpur",
-  "urlPath": "shankarpur-nagpur",
+  "urlPath": "property-in-shankarpur-nagpur",
   "name": "Shankarpur",
   "fullName": "Shankarpur Nagpur",
   "city": "Nagpur",
-  "metaTitle": "Property in Shankarpur Nagpur | Peaceful Residential Plots | Mahalaxmi Infra",
-  "metaDescription": "Buy NMRDA approved residential plots in Shankarpur Nagpur. Quiet locality near Wardha Road. Mahalaxmi Nagar 43 available. 90% bank finance.",
-  "keywords": ["property in shankarpur nagpur", "plots in shankarpur nagpur", "shankarpur nagpur real estate", "mahalaxmi nagar shankarpur"],
+  "metaTitle": "Property in Shankarpur Nagpur | NMRDA Approved Plots | Mahalaxmi Infra",
+  "metaDescription": "Buy NMRDA sanctioned, RERA approved plots in Shankarpur Nagpur. Starting ₹22 Lakh. Up to 90% bank finance. Contact Mahalaxmi Infra today.",
+  "keywords": [
+    "property in shankarpur nagpur",
+    "plots in shankarpur nagpur",
+    "shankarpur nagpur real estate",
+    "buy plot shankarpur nagpur",
+    "residential plots shankarpur nagpur"
+  ],
   "heroHeading": "Property in Shankarpur Nagpur",
   "heroSubheading": "Peaceful Living, Prime Connectivity",
-  "image": "/gallery6.jpg",
-  "introduction": "Shankarpur is a peaceful residential locality near Wardha Road, known for its calm environment and good connectivity. Situated behind Royal Gondwana School, Shankarpur offers buyers a quiet alternative to busier corridors while remaining well-connected to Wardha Road, MIHAN, and central Nagpur. Mahalaxmi Infra's Mahalaxmi Nagar 43 project is located in Mouza Shankarpur — a fully developed, NMRDA sanctioned layout with ready-to-register plots and up to 90% bank financing available. The area is ideal for families looking for a peaceful neighbourhood with long-term value.",
+  "image": "/gallery4.jpg",
+  "introduction": "Shankarpur is a peaceful residential locality near Wardha Road, known for its calm environment and good connectivity to key city zones. Situated behind Royal Gondwana School, Shankarpur offers buyers a quiet alternative to busier corridors while remaining well-connected to Wardha Road, MIHAN, and central Nagpur. Mahalaxmi Infra's Mahalaxmi Nagar 43 project is located in Mouza Shankarpur — a fully developed, NMRDA sanctioned layout with ready-to-register plots and up to 90% bank financing available. The area is ideal for families looking for a peaceful neighbourhood with long-term investment value.",
   "whyInvest": [
     "Quiet, family-friendly locality near Wardha Road",
     "Behind Royal Gondwana School — strong social infrastructure",
-    "Fully developed NMRDA sanctioned layout",
+    "Mahalaxmi Nagar 43 active project here",
     "Ready to register — immediate possession",
     "90% bank finance available"
   ],
-  "projects": [
-    {
-      "title": "Mahalaxmi Nagar 43",
-      "location": "Mouza Shankarpur",
-      "status": "ongoing",
-      "image": "/project_43.jpg"
-    }
-  ],
+  "projects": [],
   "faqs": [
     {
       "question": "Is Shankarpur Nagpur a good residential area?",
-      "answer": "Yes. Shankarpur is a peaceful, well-connected locality near Wardha Road. It is ideal for families who want a quiet neighbourhood with proximity to schools and the city."
+      "answer": "Yes. Shankarpur is a peaceful, well-connected locality ideal for families who want a quiet neighbourhood with city proximity."
     },
     {
       "question": "Does Mahalaxmi Infra have projects in Shankarpur?",
-      "answer": "Yes. Mahalaxmi Nagar 43 is located in Mouza Shankarpur — an NMRDA sanctioned, RERA approved layout with ready-to-register plots."
+      "answer": "Yes. Mahalaxmi Nagar 43 is in Mouza Shankarpur — NMRDA sanctioned and RERA approved."
     },
     {
       "question": "What is the price of plots in Shankarpur Nagpur?",
-      "answer": "Contact Mahalaxmi Infra for current pricing on Mahalaxmi Nagar 43 plots in Shankarpur. Bank finance up to 90% is available."
+      "answer": "Contact Mahalaxmi Infra for current pricing on Mahalaxmi Nagar 43. Bank finance up to 90% available."
     }
   ],
-  "relatedBlogs": ["top-10-areas-to-buy-nagpur", "nmrda-vs-rera-what-buyers-must-know"],
-  "relatedAreas": ["wardha-road", "mihan", "besa"]
+  "relatedBlogs": [
+    "top-10-areas-to-buy-property-in-nagpur",
+    "nmrda-vs-rera-what-buyers-must-know"
+  ],
+  "relatedAreas": [
+    "wardha-road",
+    "mihan",
+    "besa"
+  ]
 }
